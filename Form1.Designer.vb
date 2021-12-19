@@ -30,14 +30,14 @@ Partial Class Form1
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(808, 458)
+        Me.Panel1.Size = New System.Drawing.Size(823, 458)
         Me.Panel1.TabIndex = 0
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(808, 458)
+        Me.ClientSize = New System.Drawing.Size(823, 458)
         Me.Controls.Add(Me.Panel1)
         Me.Name = "Form1"
         Me.Text = "Windows 11"
